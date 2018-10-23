@@ -32,7 +32,11 @@
           </file>
           <file leaf-file-name="comments.coffee" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/assets/javascripts/comments.coffee">
-              <provider selected="true" editor-type-id="text-editor" />
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="24">
+                  <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+                </state>
+              </provider>
             </entry>
           </file>
           <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
@@ -248,12 +252,12 @@
       <workItem from="1540306411404" duration="645000" />
       <workItem from="1540307278961" duration="1989000" />
       <workItem from="1540309901137" duration="746000" />
-      <workItem from="1540310666053" duration="1559000" />
+      <workItem from="1540310666053" duration="2243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28355000" />
+    <option name="totallyTimeSpent" value="29039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
@@ -562,7 +566,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/comments.coffee">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
